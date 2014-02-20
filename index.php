@@ -27,78 +27,18 @@
         	<h2><img src="images/txt_heading01.jpg" width="1020" height="48" alt="highlight" /></h2>
             <div class="clearfix">
             	<ul>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
-            		<li class="item">
-            	    	<a href="#">
-            	            <img src="images/pic_home04.jpg" width="250" height="215" alt="" class="color" />
-            	            <img src="images/pic_home05.jpg" width="250" height="215" alt="" />
-            	        </a>
-            	    </li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
+            		<li class="item"><a href="#"><img src="images/pic_home04.jpg" width="250" height="215" alt="" /></a></li>
            	  	</ul>
               </div>
         <!-- /section --></div>
@@ -131,15 +71,5 @@
 
 <?php include('inc/inc-footer.php'); ?>
 
-<script type="text/javascript">
-	$(document).ready(function(){		
-		//hover grayscale
-		$("img.color").hover(function() {
-			$(this).stop().animate({"opacity": "0"}, "500");
-		},function() {
-			$(this).stop().animate({"opacity": "1"}, "500");
-		});
-	});
-</script>
 </body>
 </html>
