@@ -17,8 +17,8 @@
         <!-- / #headerItem --></div>
         <div id="gNavi">
             <ul>
-               <li id="gNav01"><a href="#">หน้าหลัก | Home</a></li>
-                <li id="gNav02"><a href="#">รายการน่าสนใจ | Program</a>
+               <li id="gNav01"><a href="index.php">หน้าหลัก | Home</a></li>
+                <li id="gNav02"><a href="program.php">รายการน่าสนใจ | Program</a>
                     <div class="subNav">
                         <ul>
                           <li class="gsNav01 odd"><a href="#">ภาพยนตร์ / Movies</a></li>
@@ -49,7 +49,7 @@
                         </ul>
                     </div>
                 </li>
-                <li id="gNav05"><a href="#">ติดตาข่าวสาร | News &amp; Event</a>
+                <li id="gNav05"><a href="news.php">ติดตาข่าวสาร | News &amp; Event</a>
                     <div class="subNav">
                             <ul>
                             <li class="gsNav01"><a href="#">ข่าวประชาสัมพันธ์</a></li>
