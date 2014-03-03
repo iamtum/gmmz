@@ -1,0 +1,136 @@
+/* !home
+---------------------------------------------------------- */	
+	/*highLight*/
+	#highLight div.clearfix{ background-color:#aaa; padding:8px; border-bottom:15px solid #545454;}
+	#highLight .item{ 
+		float:left;
+		position:relative;
+		width:250px; 
+		height:215px; 
+		margin:0 1px 1px 0;
+	}
+	#highLight .item .detail {
+		background:url(../images/bg_detail.png) repeat 0 0;
+		height:50px;
+		position:absolute;
+		left:0;
+		bottom:0;
+		z-index:20;
+		padding:15px 15px 0;
+		width:220px;
+		overflow:hidden;
+	} 
+	#highLight .item .detail p {
+		color:#fff;
+		font-size:21px; 
+		line-height:20px;
+	} 
+	#highLight .item img.grey{position:absolute; left:0; top:0;z-index: 10;}
+	#highLight .item img.color {position:absolute; left:0; top:0;} 
+	#highLight .item .bubble{ 
+		position:absolute; 
+		left:10px; 
+		bottom:25px;
+		z-index: 50; 
+		width:365px; 
+		height:247px;
+		padding:18px 10px 30px 13px;
+		background:url(../images/bubble.png) no-repeat 0 0; 
+		 opacity:0; 
+		 display:none;  
+	}
+	#highLight .item .bubble .thumbnail{ float:left;}
+	#highLight .item .bubble .des{float:right; width:190px; margin-top:10px;}
+	#highLight .item .bubble .des p{ font-size:28px; line-height:25px; color:#000; margin:15px 0;}
+	#highLight .item .bubble .icoLink{clear:both;}
+	#highLight .item .bubble .icoLink img{float:left; margin:23px 0 0 7px;;}
+	
+	/*newsEvent*/
+	#newsEvent div.clearfix{ margin:10px 0 15px 10px;}
+	#newsEvent .item{ 
+		float:left;
+		position:relative;
+		 width:330px; 
+		/*height:230px; */ 
+		overflow:hidden;
+		background:#fff url(../images/bg_newsItem.gif) no-repeat left bottom;
+		margin-right:3px;
+	}
+	#newsEvent .item a{display:block; margin-bottom:10px}
+	#newsEvent .item h3{ color:#313330; font-weight:bold; line-height:25px; padding:0 15px;}
+	#newsEvent .item p {color:#a2a2a2;line-height:13px; margin-bottom:12px; padding:0 15px;}
+
+/* !Slides
+---------------------------------------------------------- */
+#slides,
+#slides2 {
+  display: none;
+  background-color:#1b1b1b;
+  position:relative;
+}
+
+#slides .slidesjs-navigation,
+#slides2 .slidesjs-navigation {
+  margin-top:3px;
+}
+
+#slides .slidesjs-previous,
+#slides2 .slidesjs-previous {
+  margin-right: 5px;
+  float: left;
+}
+
+#slides .slidesjs-next,
+#slides2 .slidesjs-next {
+  margin-right: 5px;
+  float: left;
+}
+
+#slides .slidesjs-pagination,
+#slides2 .slidesjs-pagination {
+  margin:0 auto;
+  width:100px;
+  height:30px;
+  list-style: none;
+  
+}
+#slides2 .slidesjs-pagination {
+  position:absolute;
+  z-index:99;
+  left:50%;
+  bottom:4px;
+  height:13px;
+}
+
+#slides .slidesjs-pagination li,
+#slides2 .slidesjs-pagination li {
+  float: left;
+  margin:10px 3px 0;
+}
+#slides2 .slidesjs-pagination li {
+  margin:0 3px;
+}
+
+#slides .slidesjs-pagination li a,
+#slides2 .slidesjs-pagination li a {
+  display: block;
+  width: 13px;
+  height: 0;
+  padding-top: 13px;
+  background-image:url(../images/pagination.png);
+  background-position: 0 0;
+  float: left;
+  overflow: hidden;
+}
+
+#slides .slidesjs-pagination li a.active,
+#slides2 .slidesjs-pagination li a.active,
+#slides .slidesjs-pagination li a:hover.active,
+#slides2 .slidesjs-pagination li a:hover.active {
+  background-position: 0 -13px
+}
+
+#slides .slidesjs-pagination li a:hover,
+#slides2 .slidesjs-pagination li a:hover {
+  background-position: 0 -26px
+}

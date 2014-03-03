@@ -1,0 +1,100 @@
+/* !slide
+---------------------------------------------------------- */
+#varietyWrap{}
+	#varietyWrap .heading{
+		color:#eb4c98;
+		font-size:44px;
+		line-height:44px;
+		position:absolute;
+		top:-34px;
+		left:15px;
+	}
+		#variety{
+			width:804px;
+			height:400px;
+			margin:48px auto 27px;
+			 padding:31px 0 0 107px; 
+			background:url(../images/bg_programVariety01.gif) no-repeat 0 0;
+			position:relative;
+		}
+			#variety .categoryWrap{
+				height:54px;
+				width:857px;
+				padding-left:20px;
+				position:absolute;
+				top:378px;
+				left:18px;
+				background:url(../images/bg_category.png) no-repeat 0 0;
+			}
+			#variety .categoryWrap ul{}
+			#variety #categories li{
+				float:left;
+				text-align:center;
+			}
+			#variety #categories li a{
+				display:block;
+				line-height:45px;
+				text-decoration:none;
+				font-size:19px;
+				padding:0 7px;
+				color:#eb4c98;
+				background-color:#fff
+			}
+			#variety #categories li a.inactive{
+				color:#fff;
+				background-color:#eb4c98;
+			}
+			#variety #categories li a.inactive:hover{
+				color:#eb4c98;
+				background-color:#fff
+			}
+			
+			 #category1S,
+			#category2S,
+			#category3S,
+			#category4S,
+			#category5S,
+			#category6S,
+			#category7S,
+			#category8S{
+			  display:none;
+			} 
+			
+			.slides {
+			  display: none;
+			  position:relative;
+			  width:695px;
+			  height:330px;
+			}
+			
+				.slidesjs-navigation {
+				  position:absolute;
+				  z-index:99;
+				  top:135px;
+				  width:65px;
+				  height:65px;
+				  text-indent:-999px;
+				  overflow:hidden;
+				  background-image:url(../images/btn_programPrevNext.png);
+				  background-repeat:no-repeat;
+				}
+				.slidesjs-pagination{
+					display:none;
+				}
+				
+					.slidesjs-previous {
+					  left:-122px;
+					  background-position:left top;
+					}
+					.slidesjs-previous:hover {
+					  background-position:left bottom;
+					}
+					
+					.slidesjs-next {
+					  left:765px;
+					  background-position:right top;
+					}					
+					.slidesjs-next:hover {
+					  background-position:right bottom;
+
+					}

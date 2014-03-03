@@ -1,0 +1,99 @@
+/* !program
+---------------------------------------------------------- */
+#series{
+	margin:12px auto 0;
+	width:978px;
+	position:relative;
+}
+#series h1{
+	position:absolute;
+	top:0;
+	left:-3px;
+	font-size:30px;
+	line-height:36px;
+	color:#fff;
+	width:308px;
+	height:46px;
+	padding-left:40px;
+	background:url(../images/title_program01.png) no-repeat 0 0;
+}
+	
+#calendarWrap{
+  background:url(../images/bg_program01_bottom.gif) no-repeat left bottom;
+  margin:19px auto 0;
+  padding-bottom: 22px;
+  width:978px;
+}
+	#calendarWrap .heading{
+		color:#eb4c98;
+		font-size:50px;
+		line-height:30px;
+		margin:0 0 5px 14px;
+	}
+		#calendarWrap #calendarIn{
+			background:#f181b7 url(../images/bg_program01_top.gif) no-repeat left top;
+			width:968px;
+			padding:32px 5px 0;
+		}
+			#calendarIn #calendar{
+				background:#fff;
+				padding:1px;
+			}
+				#calendar ul{}
+					#calendar li{
+						float:left;
+						width:137px;
+						height:118px;
+						margin:0 1px 1px 0;
+						position:relative;
+						background:#fff url(../images/bg_calendarThumb01.gif) no-repeat 0 0;
+					}
+						#calendar li a{
+							display:block;
+							z-index:2;
+						}
+						#calendar li span{
+							display:block;
+							width:40px;
+							text-align:right;
+							font-size:30px;
+							line-height:20px;
+							font-weight:bold;
+							position:absolute;
+							right:10px;
+							bottom:10px;
+							z-index:99;
+							color:#fff;
+							text-shadow: 1px 1px #000;
+							-moz-text-shadow: 1px 1px #000;
+							-webkit-text-shadow: 1px 1px #000;
+						}
+
+							#calendar li a img{}
+					
+					
+/* !program detail
+---------------------------------------------------------- */
+#movie{
+	margin:12px auto 0;
+	width:978px;
+}
+#movieDetail{
+  margin: 0 auto;
+  width:978px;
+  background:url(../images/bg_movieDetail01.gif) repeat-y 0 0;
+  padding-top:36px;
+}
+#movieDetail .cover {
+    display: inline;
+    float: left;
+    margin:0 90px 12px 77px;
+}
+#movieDetail h3{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+	margin:15px 0;
+}
+#movieDetail p{
+	font-family:Tahoma, Geneva, sans-serif;
+}
