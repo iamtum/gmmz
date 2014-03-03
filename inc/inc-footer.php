@@ -1,7 +1,7 @@
 <div id="footer">
 	<div id="footerIn">
     	<div id="footerBrand">
-    		<p id="footerLogo"><a href="index.html"><img src="images/footer_logo.gif" width="85" height="85" alt="GMMZ" /></a></p>
+    		<p id="footerLogo"><a href="index.php"><img src="images/footer_logo.gif" width="85" height="85" alt="GMMZ" /></a></p>
     		<p id="footerCall"><img src="images/footer_callcenter.gif" width="246" height="51" alt="call center" /></p>
     	<!-- / #footerBrand --></div>
         <div id="footerLinks">
@@ -14,14 +14,14 @@
             <div id="footerSitemap">
                 <p><img src="images/txt_sitemap.gif" width="112" height="20" alt="site map" /></p>
               <ul>
-                    <li><a href="#">หน้าหลัก | Home</a></li>
-                    <li><a href="#">รายการน่าสนใจ | Program</a></li>
-                    <li><a href="#">สินค้าและบริการ | Product &amp; Service</a></li>
-                    <li><a href="#">ช่องทางการจัดจำหน่าย | Dealers</a></li>
-                    <li><a href="#">ติดตาข่าวสาร | News &amp; Event</a></li>
-                    <li><a href="#">บริการออนไลน์ | Self Service</a></li>
+                    <li><a href="index.php">หน้าหลัก | Home</a></li>
+                    <li><a href="program.php">รายการน่าสนใจ | Program</a></li>
+                    <li><a href="product.php">สินค้าและบริการ | Product &amp; Service</a></li>
+                    <li><a href="modern_trade.php">ช่องทางการจัดจำหน่าย | Dealers</a></li>
+                    <li><a href="news.php">ติดตาข่าวสาร | News &amp; Event</a></li>
+                    <li><a href="download.php">บริการออนไลน์ | Self Service</a></li>
                     <li><a href="#">คำถามที่พบบ่อย | FAQ</a></li>
-                    <li><a href="#">ติดต่อเรา | Contact Us</a></li>
+                    <li><a href="contactus.php">ติดต่อเรา | Contact Us</a></li>
                 </ul>
             <!-- / #footerSitemap --></div>
         <!-- / #footerLinks --></div>

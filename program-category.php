@@ -22,7 +22,7 @@
 		<div class="section">
         	<div id="series">
             	<h1>ซีรีย์/Series</h1>
-            	<p><img src="images/pic_program01.gif" width="978" height="345" alt="" /></p> 
+            	<p><a href="program_detail.php"><img src="images/pic_program01.gif" width="978" height="345" alt="" /></a></p> 
             <!-- / #series --></div>
         <!-- /section --></div>
         <div class="section">
@@ -37,31 +37,31 @@
                 			<li><a href="#">&nbsp;</a></li>
                 			<li><a href="#">&nbsp;</a></li>
                 			<li><a href="#">&nbsp;</a></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>1</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>2</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>3</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>4</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>5</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>6</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>7</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>8</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>9</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>10</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>11</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>12</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>13</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>14</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>15</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>16</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>17</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>18</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>19</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>20</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>21</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>22</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>23</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>24</span></li>
-                			<li><a href="#"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>25</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>1</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>2</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>3</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>4</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>5</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>6</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>7</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>8</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>9</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>10</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>11</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>12</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>13</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>14</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>15</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>16</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>17</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>18</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>19</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>20</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>21</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>22</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>23</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>24</span></li>
+                			<li><a href="program_detail.php"><img src="images/pic_thumbCal00.gif" width="137" height="118" alt="" /></a><span>25</span></li>
                 			<li><a href="#">&nbsp;</a></li>
                 			<li><a href="#">&nbsp;</a></li>
                 			<li><a href="#">&nbsp;</a></li>
@@ -76,44 +76,44 @@
           	<div id="variety">
         		<p class="heading">วาไรตี้บันเทิง/Variety</p>
             	<div id="category1S" class="slides">
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
                 </div>
             	<div id="category2S" class="slides">
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
                 </div>
             	<div id="category3S" class="slides">
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>           		  
                 </div>
             	<div id="category4S" class="slides">
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>          		  
                 </div>
             	<div id="category5S" class="slides">
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
                 </div>
             	<div id="category6S" class="slides">
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>          		  
                 </div>
             	<div id="category7S" class="slides">
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
                 </div>
             	<div id="category8S" class="slides">
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                   <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
                 </div>
               	<div class="categoryWrap">
                 	<ul id="categories">

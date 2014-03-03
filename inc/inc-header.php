@@ -1,6 +1,6 @@
 <div id="header">
     <div id="headerIn">
-        <h1 id="headerLogo"><a href="index.html"><img src="images/logo.gif" width="97" height="97" alt="GMMZ" /></a></h1>
+        <h1 id="headerLogo"><a href="index.php"><img src="images/logo.gif" width="97" height="97" alt="GMMZ" /></a></h1>
         <div id="headerDef">
             <p><img src="images/txt_header.gif" width="551" height="46" alt="กล่องแห่งความสุข" /></p>
         <!-- / #headerDef --></div>
@@ -21,9 +21,9 @@
                 <li id="gNav02"><a href="program.php">รายการน่าสนใจ | Program</a>
                     <div class="subNav">
                         <ul>
-                          <li class="gsNav01 odd"><a href="#">ภาพยนตร์ / Movies</a></li>
+                          <li class="gsNav01 odd"><a href="program-movie.php">ภาพยนตร์ / Movies</a></li>
                           <li class="gsNav02 even"><a href="#">ครอบครัว / Family</a></li>
-                          <li class="gsNav03 odd"><a href="#">ซีรีส์ / Series</a></li>
+                          <li class="gsNav03 odd"><a href="program-series.php">ซีรีส์ / Series</a></li>
                           <li class="gsNav04 even"><a href="#">วาไรตี้บันเทิง / Variety</a></li>
                           <li class="gsNav05 odd"><a href="#">กีฬา / Sport</a></li>
                           <li class="gsNav06 even"><a href="#">เพลง / Music</a></li>
@@ -33,7 +33,7 @@
                       </ul>
                     </div>
                 </li>
-                <li id="gNav03"><a href="#">สินค้าและบริการ | Product &amp; Service</a>
+                <li id="gNav03"><a href="product.php">สินค้าและบริการ | Product &amp; Service</a>
                     <div class="subNav">
                         <ul>
                             <li class="gsNav01"><a href="#">กล่อง GMM Z</a></li>
@@ -41,7 +41,7 @@
                         </ul>
                     </div>
                 </li>
-                <li id="gNav04"><a href="#">ช่องทางการจัดจำหน่าย | Dealers</a>
+                <li id="gNav04"><a href="modern_trade.php">ช่องทางการจัดจำหน่าย | Dealers</a>
                     <div class="subNav">
                             <ul>
                             <li class="gsNav01"><a href="#">ร้านค้าทีวีดาวเทียม</a></li>
@@ -52,21 +52,21 @@
                 <li id="gNav05"><a href="news.php">ติดตาข่าวสาร | News &amp; Event</a>
                     <div class="subNav">
                             <ul>
-                            <li class="gsNav01"><a href="#">ข่าวประชาสัมพันธ์</a></li>
+                            <li class="gsNav01"><a href="package.php">ข่าวประชาสัมพันธ์</a></li>
                             <li class="gsNav02"><a href="#">GMMZ Family</a></li>
                         </ul>
                     </div>
                 </li>
-                <li id="gNav06"><a href="#">บริการออนไลน์ | Self Service</a>
+                <li id="gNav06"><a href="download.php">บริการออนไลน์ | Self Service</a>
                     <div class="subNav">
                             <ul>
                             <li class="gsNav01"><a href="#">ชำระค่าบริการ</a></li>
-                            <li class="gsNav02"><a href="#">ดาวน์โหลด</a></li>
+                            <li class="gsNav02"><a href="download.php">ดาวน์โหลด</a></li>
                         </ul>
                     </div>
                 </li>
                 <li id="gNav07"><a href="#">คำถามที่พบบ่อย | FAQ</a></li>
-                <li id="gNav08"><a href="#">ติดต่อเรา | Contact Us</a></li>
+                <li id="gNav08"><a href="contactus.php">ติดต่อเรา | Contact Us</a></li>
             </ul>
         <!-- /gNavi --></div>
     <!-- / #headerIn --></div>

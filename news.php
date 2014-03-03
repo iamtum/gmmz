@@ -23,47 +23,47 @@
         	<div id="newsIn">
                     <div class="clearfix">
                         <div class="item">
-                            <a href="#"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home03.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home03.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home01.jpg" width="330" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home01.jpg" width="330" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home03.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home03.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home01.jpg" width="330" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home01.jpg" width="330" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home01.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
                         <div class="item">
-                            <a href="#"><img src="images/pic_home03.jpg" width="311" height="214" alt="" /></a>
+                            <a href="news_detail.php"><img src="images/pic_home03.jpg" width="311" height="214" alt="" /></a>
                             <h3>The Brave Man</h3>
                             <p>Portfolio</p>
                         </div>
