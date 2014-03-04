@@ -173,20 +173,20 @@
         height: 330
       });
       
-	  //group slider  
-	  //$('#categories li a:not(:first)').addClass('inactive');
+	 //group slider  
+	  $('#categories li a:not(:first)').addClass('inactive');
 	  $('.slides').hide();
 	  $('.slides:first').show();
 
-	  var headStart = $('#categories li a.inactive').text();
+	  var headStart = $('#categories li a:first').text();
 	  $('#variety .heading').text(headStart);
       
 	  $('#categories li a').click(function(){
 		  var t = $(this).attr('id');
 		  var heading = $(this).text();
-		  if(!$(this).hasClass('inactive')){ //this is the start of our condition 
-			$('#categories li a').removeClass('inactive');          
-			$(this).addClass('inactive'); 
+		  if($(this).hasClass('inactive')){ //this is the start of our condition 
+			$('#categories li a').addClass('inactive');        
+			$(this).removeClass('inactive');  
 			$('.slides').hide();
 			$('#'+ t + 'S').fadeIn('slow');
 			$('#variety .heading').text(heading);
