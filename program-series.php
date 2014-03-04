@@ -118,7 +118,7 @@
               	<div class="categoryWrap">
                 	<ul id="categories">
                 		<li><a id="category1" href="#">ภาพยนตร์/Movies </a></li>
-                		<li class="inactive"><a id="category2" href="#">ซีรีส์/Series</a></li>
+                		<li><a id="category2" href="#">ซีรีส์/Series</a></li>
                 		<li><a id="category3" href="#">กีฬา/Sport </a></li>
                 		<li><a id="category4" href="#">สารคดี/Documentary</a></li>
                 		<li><a id="category5" href="#">ครอบครัว/Family </a></li>
@@ -172,20 +172,20 @@
         width: 695,
         height: 330
       });
-	  //group slider
-	  var headStart = $('#categories li.inactive').text();
-	  $('#variety .heading').text(headStart);
-	  
+	 //group slider  
 	  $('#categories li a:not(:first)').addClass('inactive');
 	  $('.slides').hide();
 	  $('.slides:first').show();
 
+	  var headStart = $('#categories li a:first').text();
+	  $('#variety .heading').text(headStart);
+      
 	  $('#categories li a').click(function(){
 		  var t = $(this).attr('id');
 		  var heading = $(this).text();
 		  if($(this).hasClass('inactive')){ //this is the start of our condition 
-			$('#categories li a').addClass('inactive');           
-			$(this).removeClass('inactive');
+			$('#categories li a').addClass('inactive');        
+			$(this).removeClass('inactive');  
 			$('.slides').hide();
 			$('#'+ t + 'S').fadeIn('slow');
 			$('#variety .heading').text(heading);
