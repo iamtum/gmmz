@@ -14,13 +14,13 @@
             <div id="footerSitemap">
                 <p><img src="images/txt_sitemap.gif" width="112" height="20" alt="site map" /></p>
               <ul>
-                    <li><a href="index.php">หน้าหลัก | Home</a></li>
+                    <li><a href="aboutus.php">หน้าหลัก | Home</a></li>
                     <li><a href="program.php">รายการน่าสนใจ | Program</a></li>
                     <li><a href="product.php">สินค้าและบริการ | Product &amp; Service</a></li>
-                    <li><a href="modern_trade.php">ช่องทางการจัดจำหน่าย | Dealers</a></li>
+                    <li><a href="dealers.php">ช่องทางการจัดจำหน่าย | Dealers</a></li>
                     <li><a href="news.php">ติดตาข่าวสาร | News &amp; Event</a></li>
-                    <li><a href="download.php">บริการออนไลน์ | Self Service</a></li>
-                    <li><a href="#">คำถามที่พบบ่อย | FAQ</a></li>
+                    <li><a href="http://onlineservice.gmmz.tv">บริการออนไลน์ | Self Service</a></li>
+                    <li><a href="faq.php">คำถามที่พบบ่อย | FAQ</a></li>
                     <li><a href="contactus.php">ติดต่อเรา | Contact Us</a></li>
                 </ul>
             <!-- / #footerSitemap --></div>

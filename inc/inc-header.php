@@ -41,31 +41,31 @@
                         </ul>
                     </div>
                 </li>
-                <li id="gNav04"><a href="modern_trade.php">ช่องทางการจัดจำหน่าย | Dealers</a>
+                <li id="gNav04"><a href="dealers.php">ช่องทางการจัดจำหน่าย | Dealers</a>
                     <div class="subNav">
                             <ul>
                             <li class="gsNav01"><a href="#">ร้านค้าทีวีดาวเทียม</a></li>
-                            <li class="gsNav02"><a href="#">ห้างสรรพสินค้า</a></li>
+                            <li class="gsNav02"><a href="title_modern_trade_01.php">ห้างสรรพสินค้า</a></li>
                         </ul>
                     </div>
                 </li>
                 <li id="gNav05"><a href="news.php">ติดตาข่าวสาร | News &amp; Event</a>
                     <div class="subNav">
                             <ul>
-                            <li class="gsNav01"><a href="package.php">ข่าวประชาสัมพันธ์</a></li>
+                            <li class="gsNav01"><a href="#">ข่าวประชาสัมพันธ์</a></li>
                             <li class="gsNav02"><a href="#">GMMZ Family</a></li>
                         </ul>
                     </div>
                 </li>
-                <li id="gNav06"><a href="download.php">บริการออนไลน์ | Self Service</a>
+                <li id="gNav06"><a href="http://onlineservice.gmmz.tv">บริการออนไลน์ | Self Service</a>
                     <div class="subNav">
                             <ul>
-                            <li class="gsNav01"><a href="#">ชำระค่าบริการ</a></li>
+                            <li class="gsNav01"><a href="http://onlineservice.gmmz.tv">ชำระค่าบริการ</a></li>
                             <li class="gsNav02"><a href="download.php">ดาวน์โหลด</a></li>
                         </ul>
                     </div>
                 </li>
-                <li id="gNav07"><a href="#">คำถามที่พบบ่อย | FAQ</a></li>
+                <li id="gNav07"><a href="faq.php">คำถามที่พบบ่อย | FAQ</a></li>
                 <li id="gNav08"><a href="contactus.php">ติดต่อเรา | Contact Us</a></li>
             </ul>
         <!-- /gNavi --></div>

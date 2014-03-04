@@ -9,7 +9,7 @@
 <meta name="description" content="" />
 <link rel="stylesheet" type="text/css" href="css/layout.css" media="all" />
 <link rel="stylesheet" type="text/css" href="css/program.css" media="all" />
-<link rel="stylesheet" type="text/css" href="css/slides.css" media="all" />
+<link rel="stylesheet" type="text/css" href="css/slideCategory.css" media="all" />
  <script type="text/javascript" src="js/jquery.js"></script>   
 <script type="text/javascript" src="js/shared.js"></script> 
 </head>
@@ -74,22 +74,57 @@
 
 		<div id="varietyWrap" class="section">
           	<div id="variety">
-        		<p class="heading">สารคดี/Documentart</p>
-            	<div id="slider" class="slides">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide03.gif" width="695" height="330" alt="" /></a>         		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide03.gif" width="695" height="330" alt="" /></a>          		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide03.gif" width="695" height="330" alt="" /></a>           		  
+        		<p class="heading">ภาพยนตร์/Movies</p>
+            	<div id="category1S" class="slides" title="ภาพยนตร์/Movies">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                </div>
+            	<div id="category2S" class="slides" title="ซีรีส์/Series">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                </div>
+            	<div id="category3S" class="slides" title="กีฬา/Sport">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                </div>
+            	<div id="category4S" class="slides" title="สารคดี/Documentary">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                </div>
+            	<div id="category5S" class="slides" title="ครอบครัว/Family">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>             		  
+                </div>
+            	<div id="category6S" class="slides" title="วาไรตี้บันเทิง/Variety">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                </div>
+            	<div id="category7S" class="slides" title="เพลง/Music">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                </div>
+            	<div id="category8S" class="slides" title="ข่าว / News">
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
                 </div>
               	<div class="categoryWrap">
                 	<ul id="categories">
-                		<li><a href="program-movie.php">ภาพยนตร์/Movies </a></li>
-                		<li><a href="program-series.php">ซีรีส์/Series</a></li>
-                		<li><a href="#">กีฬา/Sport </a></li>
-                		<li class="current"><a href="#">สารคดี/Documentary</a></li>
-                		<li><a href="#">ครอบครัว/Family </a></li>
-                		<li><a href="#">วาไรตี้บันเทิง/Variety</a></li>
-                		<li><a href="#">เพลง/Music</a></li>
-                		<li><a href="#">ข่าว / News</a></li>
+                		<li class="inactive"><a id="category1" href="#">ภาพยนตร์/Movies </a></li>
+                		<li><a id="category2" href="#">ซีรีส์/Series</a></li>
+                		<li><a id="category3" href="#">กีฬา/Sport </a></li>
+                		<li><a id="category4" href="#">สารคดี/Documentary</a></li>
+                		<li><a id="category5" href="#">ครอบครัว/Family </a></li>
+                		<li><a id="category6" href="#">วาไรตี้บันเทิง/Variety</a></li>
+                		<li><a id="category7" href="#">เพลง/Music</a></li>
+                		<li><a id="category8" href="#">ข่าว / News</a></li>
                 	</ul>
                 </div>
             <!-- / #variety --></div>
@@ -104,12 +139,61 @@
 <script type="text/javascript">	
 	$(document).ready(function(){
 		//top slides
-      $('#slider').slidesjs({
+      $('#category1S').slidesjs({
         width: 695,
         height: 330
       });
+      $('#category2S').slidesjs({
+        width: 695,
+        height: 330
+      });
+      $('#category3S').slidesjs({
+        width: 695,
+        height: 330
+      });
+      $('#category4S').slidesjs({
+        width: 695,
+        height: 330
+      });
+	  
+      $('#category5S').slidesjs({
+        width: 695,
+        height: 330
+      });
+      $('#category6S').slidesjs({
+        width: 695,
+        height: 330
+      });
+      $('#category7S').slidesjs({
+        width: 695,
+        height: 330
+      });
+      $('#category8S').slidesjs({
+        width: 695,
+        height: 330
+      });
+	  //group slider
+	  var headStart = $('#categories li.inactive').text();
+	  $('#variety .heading').text(headStart);
+	  
+	  $('#categories li a:not(:first)').addClass('inactive');
+	  $('.slides').hide();
+	  $('.slides:first').show();
+
+	  $('#categories li a').click(function(){
+		  var t = $(this).attr('id');
+		  var heading = $(this).text();
+		  if($(this).hasClass('inactive')){ //this is the start of our condition 
+			$('#categories li a').addClass('inactive');           
+			$(this).removeClass('inactive');
+			$('.slides').hide();
+			$('#'+ t + 'S').fadeIn('slow');
+			$('#variety .heading').text(heading);
+		 }
+		 return false;
+		});
 	});
-</script> 
+</script>
 
 </body>
 </html>

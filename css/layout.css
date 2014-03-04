@@ -642,11 +642,11 @@ body > #wrapper {
 
 /* !modern trade
 ---------------------------------------------------------- */
-#dealers{
+#modernTrade{
 	margin:35px auto 100px;
 	width:994px;
 }
-#dealers h2{
+#modernTrade h2{
 	margin:0 0 30px 5px;
 }
 
@@ -708,7 +708,132 @@ body > #wrapper {
 		.table_basic02 td div.taL{
 		 	font-size:18px;
 		}
+/* !download
+---------------------------------------------------------- */
+#dealer{
+	margin:30px auto 0;
+	width:994px;
+}
+#dealer h2{
+	margin:0 0 25px 5px;
+}
 
+#dealerWrap{
+	width:994px;
+	margin:0 auto 50px;
+	background:url(../images/bg_dealer_btm.gif) no-repeat left bottom;
+	padding-bottom:26px;
+	position:relative;
+}
+#dealerIn{
+	background:url(../images/bg_dealer_top.gif) no-repeat left top;
+	padding-top:56px;	
+}
+#dealerWrap #dealerSearch {
+	position:absolute;
+	width:232px;
+	height:46px; 
+	top:-30px;
+	right:50px;
+}
+	#dealerSearch #dealerSearchIn {
+		width:232px;
+		height:46px;
+		position:relative; 
+	}
+	#dealerSearch p {
+		font-size:11px;
+		line-height:30px;
+		color:#363636;
+		font-family:Arial, Helvetica, sans-serif; 
+	}
+	#dealerSearch #SearchTxt {
+		width:194px;
+		height:16px;
+		font-size:12px;
+		line-height:16px;
+		padding-right:37px;
+		background:url(../images/bg_faq_input.gif) no-repeat left top;						
+		border:none; 
+	}
+	* html #dealerSearch #SearchTxt {
+		 width:180px; 
+	}
+	#dealerSearch #SearchBtn {
+		position:absolute;
+		right:0;
+		top:0; 
+	}
+	
+	#dealerZipcode {
+	  position:absolute;
+	  width:200px;
+	  height:46px; 
+	  top:-23px;
+	  right:290px;
+	}
+	#dealerZipcode p {
+		font-size:11px;
+		line-height:20px;
+		color:#363636;
+		padding: 0 0 0 18px;
+		font-family:Arial, Helvetica, sans-serif; 
+	}
+	#dealerZipcode .radio {
+	height: 25px;
+	width: 19px;
+	clear:left;
+	float:left;
+	margin: 0 0 3px;
+	padding: 0 0 0 26px;
+	background: url(../images/radio.gif);
+	background-repeat:no-repeat;
+	cursor: default;
+	}
+	#dealerZipcode .radio input {
+		display: none;
+	}
+	#dealerZipcode .radio input.show {
+		display: inline;
+	}
+	#dealerZipcode .selected {
+		background-position: 0 -52px;
+	}
+	#dealerZipcode label {
+		float:left;
+		text-align:left;
+		font-size:11px;
+		line-height:20px;
+		color:#363636;
+		font-family:Arial, Helvetica, sans-serif; 
+	}
+	
+	.table_basic03 {
+		font-size:11px;
+		line-height:16px;
+		color:#363636;
+		font-family:Arial, Helvetica, sans-serif; 	
+	}
+	.table_basic03 tr {
+		border-left:3px solid #ffdd5e;
+	}
+	.table_basic03 tr td {
+		border-right:3px solid #ffdd5e;
+	}
+	.table_basic03 tr.odd td {
+		background:#fff;
+	}
+	.table_basic03 tr.even td {
+		background:#ffeeb3;
+	}
+	.table_basic03 td {
+		border: 1px solid #fff;
+		background: #f4f4f4;
+	}
+		.table_basic03 td div {
+			padding: 7px;	
+		}
+		
 /* !product
 ---------------------------------------------------------- */
 #product{

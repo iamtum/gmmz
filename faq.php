@@ -18,11 +18,17 @@
 
 	<div id="contents">
 		<div class="section">
-        	<div id="modernTrade">
-            <h2><img src="images/title_modern_trade_01.gif" width="360" height="30" alt="Modern Trade" /></h2>
-       	    <p><img src="images/img_modernTrade01.gif" width="994" height="535" alt="modern trade" /></p>          	  
-          	<!-- / #aboutus --></div>
-        <!-- /section --></div>
+        	<div id="faq">
+            <h2><img src="images/title_faq01.gif" width="161" height="25" alt="faq" /></h2>
+          	<!-- / #pagekage --></div>
+      <!-- /section --></div>
+        <div id="faqWrap" class="section">
+       	  <div id="faqIn">
+          	<div class="clearfix">
+                
+            </div>
+          <!-- / #pagekageIn .clearfix --></div>
+        <!-- / #pagekageWrap .section --></div>
   <!-- /contents --></div>
 <!-- /wrapper --></div>
 
