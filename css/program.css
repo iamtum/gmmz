@@ -4,6 +4,17 @@
 	margin:12px auto 0;
 	width:978px;
 	position:relative;
+	background:url(../images/bg_program_btm.gif) no-repeat left bottom;
+	padding-bottom:25px;
+}
+#seriesWrap{
+	width:978px;
+  	background:url(../images/bg_program_top.gif) no-repeat left top;
+	padding-top:20px;
+}
+#seriesIn{
+  background:url(../images/bg_movieDetail01.gif) repeat-y 0 0;
+  padding: 0 8px 0 6px;
 }
 #series h1{
 	position:absolute;
@@ -79,21 +90,60 @@
 	width:978px;
 }
 #movieDetail{
-  margin: 0 auto;
-  width:978px;
-  background:url(../images/bg_movieDetail01.gif) repeat-y 0 0;
-  padding-top:36px;
+  /* margin: 0 auto;
+  width:978px; */
+  padding-top:36px; 
 }
-#movieDetail .cover {
+#movieDetail #detail .cover {
     display: inline;
     float: left;
     margin:0 90px 12px 77px;
 }
-#movieDetail h3{
+#movieDetail #detail h3{
 	font-family:Tahoma, Geneva, sans-serif;
 	font-weight:bold;
 	margin:15px 0;
 }
-#movieDetail p{
+#movieDetail #detail p{
 	font-family:Tahoma, Geneva, sans-serif;
 }
+#movieSchedule{
+	 background:#f8c0db; 
+	 border-top:1px solid #f181b7;
+}
+#dateSchedule{
+	float:left;
+	width:405px;
+	margin:17px 0 0 60px;
+}
+#dateSchedule p{
+	font-size:30px;
+	padding-top:10px;
+	font-weight:bold;
+}
+#dateSchedule .flImgL{ 
+	display: inline;
+	float: left; 
+	margin-right: 30px;
+	padding-top:0;
+}
+#schedule{
+	float:left;
+	width:460px;
+}
+#schedule p{
+	font-family:Tahoma, Geneva, sans-serif;
+	line-height:50px;
+}
+
+	.table_basic05 {
+		font-family:Tahoma, Geneva, sans-serif;
+		font-size:14px;
+		line-height:18px;
+		color:#282828; 
+		width:100%;	
+	}
+		.table_basic05 td div {
+			padding:1px;
+			text-align:left;	
+		}

@@ -117,7 +117,7 @@
                 </div>
               	<div class="categoryWrap">
                 	<ul id="categories">
-                		<li><a class="inactive" id="category1" href="#">ภาพยนตร์/Movies </a></li>
+                		<li><a id="category1" href="#">ภาพยนตร์/Movies </a></li>
                 		<li><a id="category2" href="#">ซีรีส์/Series</a></li>
                 		<li><a id="category3" href="#">กีฬา/Sport </a></li>
                 		<li><a id="category4" href="#">สารคดี/Documentary</a></li>

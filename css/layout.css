@@ -495,7 +495,6 @@ body > #wrapper {
 		
 /* !extra class
 ---------------------------------------------------------- */
-
 .mt40{margin-top:40px !important;}
 .taC { text-align: center !important;}
 .taL { text-align: left !important;}
@@ -708,7 +707,7 @@ body > #wrapper {
 		.table_basic02 td div.taL{
 		 	font-size:18px;
 		}
-/* !download
+/* !dealer
 ---------------------------------------------------------- */
 #dealer{
 	margin:30px auto 0;
@@ -833,6 +832,125 @@ body > #wrapper {
 		.table_basic03 td div {
 			padding: 7px;	
 		}
+/* !faq
+---------------------------------------------------------- */
+#faq{
+	margin:15px auto 0;
+	width:946px;
+}
+#faq h2{
+	margin-bottom:27px;
+}
+
+#faqWrap{
+	width:946px;
+	margin:0 auto 8px;
+	background:url(../images/bg_faq_btm.gif) no-repeat left bottom;
+	padding-bottom:25px;
+	position:relative;
+}
+#faqIn{
+	background:url(../images/bg_faq_top.gif) no-repeat left top;
+	padding-top:25px;	
+}
+#faqWrap #faqSearch {
+	position:absolute;
+	width:232px;
+	height:46px; 
+	top:-30px;
+	right:150px;
+}
+	#faqSearch #faqSearchIn {
+		width:232px;
+		height:46px;
+		position:relative; 
+	}
+	#faqSearch p {
+		font-size:11px;
+		line-height:30px;
+		color:#363636;
+		font-family:Arial, Helvetica, sans-serif; 
+	}
+	#faqSearch #SearchTxt {
+		width:194px;
+		height:16px;
+		font-size:12px;
+		line-height:16px;
+		padding-right:37px;
+		background:url(../images/bg_faq_input.gif) no-repeat left top;						
+		border:none; 
+	}
+	* html #faqSearch #SearchTxt {
+		 width:180px; 
+	}
+	#faqSearch #SearchBtn {
+		position:absolute;
+		right:0;
+		top:0; 
+	}
+	
+	.table_basic04 {
+		font-size:18.5px;
+		line-height:24px;
+		color:#363636; 
+		width:100%;	
+	}
+	.table_basic04 tr td {
+		background:#f8d2c9;
+		vertical-align:top;
+		
+	}
+	.table_basic04 tr.odd td {
+		background:#f8d2c9;
+	}
+	.table_basic04 tr.even td {
+		background:#fbe6e1;
+	}
+		.table_basic04 td div {
+			padding:10px;
+			text-align:left;	
+		}
+		.table_basic04 td span {
+			display:block;	
+			text-align:center;
+			padding:10px;
+			font-weight:bold;
+		}
+		.table_basic04 td em {
+			font-weight:bold;	
+		}
+		
+	#contents .pagination{
+		width:952px;
+		margin:0 auto 12px;
+	}	
+	#contents .pagination ul{
+		float:right;
+		margin-right:15px;
+	}	
+	#contents .pagination li{
+		float:left;
+		line-height:30px;
+		margin-right:5px;
+		color:#ff6f49;
+	}	
+	#contents .pagination li:last-child{
+		padding-left:10px;
+	}	
+	#contents .pagination li a{
+		display:block;
+		text-decoration:none;
+		color:#ff6f49;
+	}	
+	#contents .pagination li a:hover{
+		color:#000;
+	}	
+	#paginationTop{
+	  position:absolute;
+	  top:-37px;
+	  right:0;
+	}
+
 		
 /* !product
 ---------------------------------------------------------- */

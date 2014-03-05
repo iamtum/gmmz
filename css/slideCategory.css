@@ -37,16 +37,16 @@
 				text-decoration:none;
 				font-size:19px;
 				padding:0 7px;
-				color:#fff;
-				background-color:#eb4c98;
-			}
-			#variety #categories li a.inactive{
-                color:#eb4c98;
+				color:#eb4c98;
 				background-color:#fff;
 			}
-			#variety #categories li a.inactive:hover{
-				color:#fff;
+			#variety #categories li a.inactive{
+                color:#fff;
 				background-color:#eb4c98;
+			}
+			#variety #categories li a.inactive:hover{
+				color:#eb4c98;
+				background-color:#fff;
 			}
 			
 			#category1S,
