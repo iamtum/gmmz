@@ -7,7 +7,7 @@
         <div id="footerLinks">
             <div id="footerSearch">
                 <form action="#" method="post">
-                    <input type="text" value="SEARCH" id="inputSearchTxt" />
+                    <input type="text" placeholder="SEARCH" id="inputSearchTxt" />
                     <input type="image" src="images/btn_search.gif" id="inputSearchBtn" alt="search" />
                 </form>
             <!-- /headerSearch --></div>

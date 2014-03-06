@@ -76,44 +76,140 @@
           	<div id="variety">
         		<p class="heading">วาไรตี้บันเทิง/Variety</p>
             	<div id="category1S" class="slides" title="ภาพยนตร์/Movies">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
-                </div>
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+              </div>
             	<div id="category2S" class="slides" title="ซีรีส์/Series">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
                 </div>
             	<div id="category3S" class="slides" title="กีฬา/Sport">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
                 </div>
             	<div id="category4S" class="slides" title="สารคดี/Documentary">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
                 </div>
             	<div id="category5S" class="slides" title="ครอบครัว/Family">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>             		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>              		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>              		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>              		  
                 </div>
             	<div id="category6S" class="slides" title="วาไรตี้บันเทิง/Variety">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>          		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>          		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>          		  
                 </div>
             	<div id="category7S" class="slides" title="เพลง/Music">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>          		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide01.gif" width="695" height="330" alt="" /></a>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_01.gif" width="209" height="330" alt="" /></a>          		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide01_03.gif" width="209" height="330" alt="" /></a>
+                  </div>            		  
                 </div>
             	<div id="category8S" class="slides" title="ข่าว / News">
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
-                  <a href="program_detail.php"><img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" /></a>            		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
                 </div>
               	<div class="categoryWrap">
                 	<ul id="categories">

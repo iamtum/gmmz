@@ -9,7 +9,7 @@
 <meta name="description" content="" />
 <link rel="stylesheet" type="text/css" href="css/layout.css" media="all" />
 <link rel="stylesheet" type="text/css" href="css/home.css" media="all" />
- <script type="text/javascript" src="js/jquery.js"></script>   
+<script type="text/javascript" src="js/jquery.js"></script>  
 <script type="text/javascript" src="js/shared.js"></script> 
 </head>
 <body id="g1">
@@ -335,7 +335,7 @@
       });
 		
 		//bubble and hover grayscale
-		$(".item").hover(
+		/*$(".item").hover(
 		function() {
 			$(this).find(".grey").animate({"opacity": "0"}, "fast");
 			var buble = $(this).children(".bubble");
@@ -349,6 +349,12 @@
 			buble.stop().animate({"opacity": "0","bottom": "25"},300,function(){
 				buble.stop().hide("fast");
 			}); 
+		});
+		*/
+		$(".item").on({
+			hover:function(){$(this).find(".grey").animate({"opacity": "0"}, "fast");}, 
+			mouseenter:function(){$(this).children(".bubble").css({"z-index":"20"}).stop().animate({"opacity": "1","bottom": "55"},500);},  
+			mouseleave:function(){$(this).children(".bubble").stop().animate({"opacity": "0","bottom": "25"},300).css({"z-index":"0"});} 
 		});
 	});
 </script> 

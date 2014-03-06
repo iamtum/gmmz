@@ -106,6 +106,7 @@
 }
 #movieDetail #detail p{
 	font-family:Tahoma, Geneva, sans-serif;
+	line-height:22px;
 }
 #movieSchedule{
 	 background:#f8c0db; 

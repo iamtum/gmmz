@@ -51,6 +51,13 @@
 			  width:695px;
 			  height:330px;
 			}
+			.slides .clearfix a {
+			  float:left;
+			  margin-right:32px;
+			}
+			.slides .clearfix a:last-child {
+			  margin-right:0;
+			}
 			
 				.slidesjs-navigation {
 				  position:absolute;

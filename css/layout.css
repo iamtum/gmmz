@@ -2,27 +2,18 @@
 /*
  * cmn_layout.css
  */
- 
+
 @font-face {
-    font-family: 'DBOzoneX';
-    src: url('fonts/dbozonex_0.eot');
-    src: url('fonts/dbozonex_0.eot?#iefix') format('embedded-opentype'),
-         url('fonts/dbozonex_0.woff') format('woff'),
-         url('fonts/dbozonex_0.ttf') format('truetype'),
-         url('fonts/dbozonex_0.svg#dbozonex_0') format('svg');
+    font-family: 'db_ozone_xregular';
+    src: url('dbozonex1-webfont.eot');
+    src: url('dbozonex1-webfont.eot?#iefix') format('embedded-opentype'),
+         url('dbozonex1-webfont.woff') format('woff'),
+         url('dbozonex1-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
-@font-face {
-    font-family: 'DBOzoneX-Bold';
-    src: url('fonts/dbozonexbd_0.eot');
-    src: url('fonts/dbozonexbd_0.eot?#iefix') format('embedded-opentype'),
-         url('fonts/dbozonexbd_0.woff') format('woff'),
-         url('fonts/dbozonexbd_0.ttf') format('truetype'),
-         url('fonts/dbozonexbd_0.svg#dbozonexbd_0') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+
+
 /* !HTML5 elements
 ---------------------------------------------------------- */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
@@ -31,7 +22,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 /* !Reseting
 ---------------------------------------------------------- */
 body {
-	 font-family: "DBOzoneX", Arial, Helvetica, Verdana, sans-serif; 
+	 font-family:'db_ozone_xregular', Arial, Helvetica, Verdana, sans-serif; 
 	/* font-family: Arial, Helvetica, Verdana, sans-serif; */
 	font-size: 18px; /* 10px; */
 	-webkit-text-size-adjust: none;
@@ -243,14 +234,14 @@ body { text-align: center;}
 	#gNavi li{
 		position: relative;
 		float:left;
-		background-image:url(../images/gNavi.gif);
+		background-image:url(../images/gNavi.jpg);
 		background-repeat:no-repeat;
 	}
 		#gNavi li a{
 			display:block;
 			overflow:hidden; 
-			height:0;
-			padding-top:42px; 	
+			height:42px;
+			text-indent:-8888px; 	
 		}
 		#gNavi li#gNav01 { width:117px; background-position:0 0;}
 		#gNavi li#gNav02 { width:115px; background-position:-117px 0;}
@@ -734,10 +725,11 @@ body > #wrapper {
 	height:46px; 
 	top:-30px;
 	right:50px;
+	z-index:20;
 }
 	#dealerSearch #dealerSearchIn {
 		width:232px;
-		height:46px;
+		height:16px;
 		position:relative; 
 	}
 	#dealerSearch p {
@@ -770,6 +762,7 @@ body > #wrapper {
 	  height:46px; 
 	  top:-23px;
 	  right:290px;
+	  z-index:25;
 	}
 	#dealerZipcode p {
 		font-size:11px;
@@ -853,16 +846,23 @@ body > #wrapper {
 	background:url(../images/bg_faq_top.gif) no-repeat left top;
 	padding-top:25px;	
 }
-#faqWrap #faqSearch {
+/* #faqWrap #faqSearch {
 	position:absolute;
 	width:232px;
-	height:46px; 
+	height:16px; 
 	top:-30px;
-	right:150px;
+	right:200px;
+	z-index:20;
+} */
+#faqWrap #faqSearch {
+	float:right;
+	width:232px;
+	height:16px; 
+	margin:8px 20px 0 0;
 }
 	#faqSearch #faqSearchIn {
 		width:232px;
-		height:46px;
+		height:16px;
 		position:relative; 
 	}
 	#faqSearch p {
@@ -872,11 +872,12 @@ body > #wrapper {
 		font-family:Arial, Helvetica, sans-serif; 
 	}
 	#faqSearch #SearchTxt {
-		width:194px;
+		width:190px;
 		height:16px;
 		font-size:12px;
 		line-height:16px;
 		padding-right:37px;
+		padding-left:4px;
 		background:url(../images/bg_faq_input.gif) no-repeat left top;						
 		border:none; 
 	}
@@ -916,8 +917,11 @@ body > #wrapper {
 			padding:10px;
 			font-weight:bold;
 		}
-		.table_basic04 td em {
-			font-weight:bold;	
+		.table_basic04 td p {
+			text-indent:50px;	
+		}
+		.table_basic04 td a {
+			color:#000;	
 		}
 		
 	#contents .pagination{
@@ -934,15 +938,19 @@ body > #wrapper {
 		margin-right:5px;
 		color:#ff6f49;
 	}	
+	#contents .pagination li:first-child{
+		padding-right:10px;
+	}	
 	#contents .pagination li:last-child{
 		padding-left:10px;
-	}	
+	}		
 	#contents .pagination li a{
 		display:block;
 		text-decoration:none;
 		color:#ff6f49;
 	}	
-	#contents .pagination li a:hover{
+	#contents .pagination li a:hover,
+	#contents .pagination li a.current{
 		color:#000;
 	}	
 	#paginationTop{

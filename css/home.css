@@ -31,13 +31,14 @@
 		position:absolute; 
 		left:10px; 
 		bottom:25px;
-		z-index: 50; 
+		z-index:0; 
 		width:365px; 
 		height:247px;
 		padding:18px 10px 30px 13px;
 		background:url(../images/bubble.png) no-repeat 0 0; 
-		 opacity:0; 
-		 display:none;  
+		cursor:pointer;  
+		opacity:0;
+		-ms-filter: "alpha(opacity=0)";
 	}
 	#highLight .item .bubble .thumbnail{ float:left;}
 	#highLight .item .bubble .des{float:right; width:190px; margin-top:10px;}

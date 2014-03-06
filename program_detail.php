@@ -30,7 +30,6 @@
                     	<p class="cover"><img src="images/pic_program03.gif" width="291" height="349" alt="" /></p>
                     	<h3>Snow white and The Huntsman</h3>
                     	<p>สโนไวท์ สาวน้อยที่กระจกวิเศษบอกว่าเธอสวยกว่า ราชินีแห่ง<br />
-                    	สโนไวท์ สาวน้อยที่กระจกวิเศษบอกว่าเธอสวยกว่า ราชินีแห่ง <br />
                     	ความชั่วร้าย ดังนั้นการตามล่าทำลายล้าง เจ้าหญิงสโนไวท์จึง <br />
                     	เกิดขึ้น หลังจากโดนยึดเมืองไป สโนไวท์ก็ได้พบกับนายพรานป่า <br />
                     	ที่ได้รับคำสั่งให้มาฆ่าเธอ แต่เขากลับมาฝึกให้เธอต่อสู้เพื่อ <br />
@@ -86,9 +85,21 @@
           	<div id="variety">
         		<p class="heading">RELATED</p>
             	<div id="slidesVariety" class="slides">
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
-                  <img src="images/pic_varietySlide02.gif" width="695" height="330" alt="" />           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>           		  
+                  <div class="clearfix">
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_01.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_02.gif" width="211" height="330" alt="" /></a>            		  
+                  	<a href="program_detail.php"><img src="images/pic_varietySlide02_03.gif" width="209" height="330" alt="" /></a> 
+                   </div>          		  
                 </div>
             <!-- / #variety --></div>
         <!-- /section --></div>

@@ -38,7 +38,7 @@ $(document).ready(function(){
         	<div id="dealerSearch">
             	<p>สถานที่</p>
                 <div id="dealerSearchIn">
-                    <input type="text"  name="search" value="ใส่ข้อความค้นหา" id="SearchTxt" />
+                    <input type="text"  name="search" placeholder="ใส่ข้อความค้นหา" id="SearchTxt" />
                     <input type="image" src="images/btn_faq_sumbit.gif" id="SearchBtn" alt="Go" />
                 </div>
             <!-- /headerSearch --></div>
